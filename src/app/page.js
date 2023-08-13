@@ -19,6 +19,10 @@ export default function Home() {
       <Link href={"/login"}>go to login page</Link>
       <br />
       <Link href={"/about"}>go to about page</Link>
+      <br />
+      <Link href={"/product"}>go to product</Link>
+      <br />
+      <Link href={"/productserver"}>go to product from server</Link>
     </main>
   );
 }
